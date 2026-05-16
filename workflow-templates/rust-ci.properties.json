@@ -1,0 +1,6 @@
+{
+  "name": "Rust CI",
+  "description": "Build and test a Rust project on self-hosted runners.",
+  "iconName": "rust",
+  "categories": ["Rust"]
+}
