@@ -1,0 +1,6 @@
+{
+  "name": "Security Scan",
+  "description": "Dependency review and CodeQL analysis on every PR.",
+  "iconName": "shield",
+  "categories": ["Security"]
+}
