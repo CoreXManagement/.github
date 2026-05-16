@@ -1,0 +1,6 @@
+{
+  "name": "Release",
+  "description": "Build and publish a GitHub Release on version tags.",
+  "iconName": "package",
+  "categories": ["Deployment"]
+}
